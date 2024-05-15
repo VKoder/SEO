@@ -1,1 +1,3 @@
 # SEO
+
+## Seo notes here!
