@@ -33,3 +33,7 @@
 ## Off-Page SEO
 
 > Off-page SEO involves activities conducted outside of your website to improve its visibility and authority in search engine rankings. The primary focus of off-page SEO is building backlinks from other reputable websites, which serve as "votes of confidence" for your website's content and can significantly impact its search engine rankings. Off-page SEO also includes activities such as social media marketing, influencer outreach, guest blogging, online reputation management, and brand promotion through external channels. While some off-page SEO tactics overlap with on-page techniques, off-page SEO primarily revolves around building a strong external network and reputation for your website.
+
+## Algorithms that google use:
+
+
